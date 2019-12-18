@@ -1,0 +1,11 @@
+"use strict";
+
+//show an alert message saying hi
+window.alert('hi');
+
+//print something in the console
+console.log('Welcome to JS!');
+
+var x = 1;
+
+x = 1;
